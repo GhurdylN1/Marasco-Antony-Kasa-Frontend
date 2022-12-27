@@ -4,7 +4,7 @@ From frontend directory run "npm install"
 
 Then, run "npm start" 
 
----------------------
+-------------
 
 Depuis le dossier frontend, lancez la commande "npm install".
 
